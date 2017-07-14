@@ -1,0 +1,6 @@
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Loop/obj/Debug/Loop.csproj.CoreCompileInputs.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Loop/bin/Debug/Loop.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Loop/bin/Debug//Loop.pdb
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Loop/obj/Debug/Loop.csprojResolveAssemblyReference.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Loop/obj/Debug/Loop.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Loop/obj/Debug/Loop.pdb

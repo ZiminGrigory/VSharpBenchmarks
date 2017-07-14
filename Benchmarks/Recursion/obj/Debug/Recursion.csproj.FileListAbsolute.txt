@@ -1,0 +1,6 @@
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Recursion/bin/Debug/Recursion.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Recursion/bin/Debug/Recursion.pdb
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Recursion/obj/Debug/Recursion.csprojResolveAssemblyReference.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Recursion/obj/Debug/Recursion.csproj.CoreCompileInputs.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Recursion/obj/Debug/Recursion.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Recursion/obj/Debug/Recursion.pdb

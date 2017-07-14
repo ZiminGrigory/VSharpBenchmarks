@@ -1,0 +1,6 @@
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/sanfoundry_24_false-valid-deref/obj/Debug/sanfoundry_24_false-valid-deref.csprojResolveAssemblyReference.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/sanfoundry_24_false-valid-deref/obj/Debug/sanfoundry_24_false-valid-deref.csproj.CoreCompileInputs.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/sanfoundry_24_false-valid-deref/bin/Debug/sanfoundry_24_false_valid_deref.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/sanfoundry_24_false-valid-deref/bin/Debug/sanfoundry_24_false_valid_deref.pdb
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/sanfoundry_24_false-valid-deref/obj/Debug/sanfoundry_24_false_valid_deref.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/sanfoundry_24_false-valid-deref/obj/Debug/sanfoundry_24_false_valid_deref.pdb

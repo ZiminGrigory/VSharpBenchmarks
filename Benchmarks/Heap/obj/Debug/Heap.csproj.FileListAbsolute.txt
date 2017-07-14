@@ -1,0 +1,7 @@
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/bin/Debug/Heap.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/bin/Debug/Heap.pdb
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/obj/Debug/Heap.csprojResolveAssemblyReference.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/obj/Debug/Heap.csproj.CoreCompileInputs.cache
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/obj/Debug/Heap.exe
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/obj/Debug/Heap.pdb
+/home/greg/Documents/benchmarksVSharp/benchmarks/ConsoleApplication/Heap/bin/Debug//Heap.pdb
